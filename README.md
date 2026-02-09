@@ -1,3 +1,4 @@
 # latihan-branch
 **latihan membuat  branch** <br>
-Belajar github itu asik
+**ini repository latihan untuk membuat branch baru di Github**
+
